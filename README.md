@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=newarkx&show_icons=true&locale=en" alt="newarkx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newarkx&" alt="newarkx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newarkx&theme=dracula" alt="newarkx" /></p>
