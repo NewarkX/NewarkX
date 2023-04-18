@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newarkx&label=Profile%20views&color=0e75b6&style=flat" alt="newarkx" /> </p>
 
-- 🔭 I’m currently working on **MJV**
+- 🔭 I’m currently searching for job
 
-- 🌱 I’m currently learning **Microservices, Docker Compose**
+- 🌱 I’m currently learning **Node.js,Express**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NewarkX?tab=repositories](https://github.com/NewarkX?tab=repositories)
 
